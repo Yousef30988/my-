@@ -25,7 +25,7 @@ header{
 }
 .section .img img{
     position: relative;
-    width: 30vw;
+    width: 28vw;
     box-shadow: 00 25px solid red ;
     border-radius: 50%;
     transition: 02s linear;
