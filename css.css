@@ -6,8 +6,6 @@
     background: black;
     color: white;
     text-decoration: none;
-    overflow-y: auto;
-    overflow-x: clip;
 }
 header{
     display: flex;
