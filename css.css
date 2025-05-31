@@ -6,6 +6,7 @@
     background: black;
     color: white;
     text-decoration: none;
+    overflow-y: auto;
     overflow-x: clip;
 }
 header{
@@ -62,12 +63,6 @@ nav a:active{
     display: block;
 }
 
-
-nav a:hover,nav a:active{
-    padding: 1px;
-    border-radius: 0.5rem;
-    border-bottom: 0.3rem solid red;
-}
 
 .actve{
     color: red;
