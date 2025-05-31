@@ -6,6 +6,7 @@
     background: black;
     color: white;
     text-decoration: none;
+    overflow-x: clip;
 }
 header{
     display: flex;
